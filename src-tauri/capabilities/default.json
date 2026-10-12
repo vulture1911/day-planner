@@ -1,0 +1,1 @@
+{"identifier":"default","windows":["main","widget"],"permissions":["core:default","core:window:allow-start-dragging","core:window:allow-show","core:window:allow-hide","notification:default","opener:default","autostart:default","global-shortcut:default"]}
